@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lcimun.framer.website/sitemap.xml
